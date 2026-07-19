@@ -5,4 +5,4 @@
   <img src="1bff6c24344bfb032e54d0bdc42c4c57.jpg" width="1000">
 </div>
 <div align="center">
-${\textsf{\color{#B2F4A5}𝐿𝒪𝒱𝐸 𝒰𝒮}}$
+${\textsf{\color{#B2F4A5}LOVE US}}$
