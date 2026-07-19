@@ -2,5 +2,5 @@
   <img src="Untitled1_20260719152724.png" width="400">
 </div>
 <div align="center">
-  <img src="1bff6c24344bfb032e54d0bdc42c4c57.jpg" width="400">
+  <img src="1bff6c24344bfb032e54d0bdc42c4c57.jpg" width="900">
 </div>
