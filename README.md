@@ -5,4 +5,4 @@
   <img src="1bff6c24344bfb032e54d0bdc42c4c57.jpg" width="1000">
 </div>
 
-<color #B2F4A5> lelele..</color>
+<color> lelele..</color>
