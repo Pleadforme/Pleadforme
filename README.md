@@ -5,4 +5,4 @@
   <img src="1bff6c24344bfb032e54d0bdc42c4c57.jpg" width="1000">
 </div>
 <div align="center">
-$\color{#B2F4A5}{\text{𝓱𝓮𝓪𝓻𝓽𝓫𝓮𝓪𝓽𝓼}}$
+${\textsf{\color{#B2F4A5}𝐿𝒪𝒱𝐸 𝒰𝒮..𝒯𝒪𝒢𝐸𝒯𝐻𝐸𝑅..𝐼 𝒩𝐸𝐸𝒟 𝐻𝐸𝑅..}}$
